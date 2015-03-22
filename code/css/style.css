@@ -1,0 +1,17 @@
+#mainDiv {
+	width: 50%;
+	margin: 10px auto 0 auto;
+}
+
+.book > aside {
+	text-align: center;
+}
+
+.book cite {
+	font-style: italic;
+}
+
+.book .thumbnail .full {
+	min-width: 75px;
+	;
+}
